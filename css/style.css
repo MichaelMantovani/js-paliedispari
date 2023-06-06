@@ -1,8 +1,8 @@
-.word, .number{
+.word, .number-game{
   text-align: center;
 }
 
-.number{
+.number-game{
   margin-top: 4rem;
 }
 
@@ -15,7 +15,7 @@ label{
 }
 
 
-.number label{
+.number-game label{
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
