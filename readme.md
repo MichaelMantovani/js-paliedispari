@@ -33,3 +33,23 @@ Dichiariamo chi ha vinto.
   - Verifico che sia una parola 
   - Controllo se la parola è palindroma
   - Stampo in pagina il risultato 
+
+
+
+**SVOLGIMENTO TRACCIA PARI E DISPARI**
+- Recupero gli elementi dal DOM
+*Creo una funzione* che genera un numero randomico da 1 a 5  
+*Creo una funzione* di controllo per verificare se il numero è pari o dispari 
+**Al click** del bottone
+  - Recupero il valore degli input dal DOM
+  - Verifico se l'utente ha scelto pari o dispari
+  - Verifico se l'utente ha inserito un numero valido 
+  - Uso la funzione per genere il numero per il PC
+  - Sommo i numeri
+  - Uso la funzione per verificare se il numero è pari o dispari
+  **SE**  l'utente ha scelto lo stesso risultato della verifica
+    - Stampo in pagina il messaggio di vittoria per l'utente
+  **ALTRIMENTI**
+    - Stampo in pagina il messaggio di vittoria per il PC
+
+
