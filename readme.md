@@ -42,11 +42,11 @@ Dichiariamo chi ha vinto.
 *Creo una funzione* di controllo per verificare se il numero è pari o dispari 
 **Al click** del bottone
   - Recupero il valore degli input dal DOM
-  - Verifico se l'utente ha scelto pari o dispari
   - Verifico se l'utente ha inserito un numero valido 
   - Uso la funzione per genere il numero per il PC
   - Sommo i numeri
   - Uso la funzione per verificare se il numero è pari o dispari
+  - Verifico se l'utente ha scelto pari o dispari
   **SE**  l'utente ha scelto lo stesso risultato della verifica
     - Stampo in pagina il messaggio di vittoria per l'utente
   **ALTRIMENTI**
