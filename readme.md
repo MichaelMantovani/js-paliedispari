@@ -29,6 +29,7 @@ Dichiariamo chi ha vinto.
   **ALTRIMENTI**
     - La parola non è palindroma 
 **AL CLICK** di un bottone 
-  - Recupero il valore dell'input 
+  - Recupero il valore dell'input
+  - Verifico che sia una parola 
   - Controllo se la parola è palindroma
   - Stampo in pagina il risultato 
