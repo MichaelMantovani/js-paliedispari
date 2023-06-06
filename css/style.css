@@ -1,0 +1,10 @@
+.word{
+  text-align: center;
+}
+
+
+
+.word label{
+  display: block;
+  margin: 2rem 0;
+}
