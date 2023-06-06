@@ -12,6 +12,14 @@ function getRandomNumber (min,max){
   return randomNumber;
 }
 
+// Creo una funzione di controllo per verificare se il numero è pari
+
+function isEven(number){
+  let isEven = false 
+  if (number % 2 === 0) isEven = true 
+  return isEven; 
+}
+
 
 
 
