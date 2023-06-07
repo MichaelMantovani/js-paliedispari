@@ -9,6 +9,8 @@ const palindromeMessagePlaceholder = document.querySelector('.word .result');
 
 // Creo una funzione di controllo per verificare se la parola è palindroma
 function isPalindrome(word){
+
+  word = word.toLowerCase()
   const wordLetters = word.split('')
   
   let reversedWord = ''
