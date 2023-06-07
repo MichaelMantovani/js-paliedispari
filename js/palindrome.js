@@ -17,11 +17,11 @@ function isPalindrome(word){
   }
 
 
-  let isValid = false
-  if (reversedWord === word) isValid = true 
+  let isPalindrome = false
+  if (reversedWord === word) isPalindrome = true 
 
 
-  return isValid;
+  return isPalindrome;
 }
 
 
